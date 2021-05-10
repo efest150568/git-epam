@@ -1,1 +1,1 @@
-local repo
+Github repo
